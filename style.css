@@ -12,6 +12,15 @@
   max-width: 145px;
   letter-spacing: 0.03em;
 }
+.logoneparttwo{
+  color: #212121;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  margin-top: 24px;
+  max-width: 145px;
+  letter-spacing: 0.03em;
+}
 .logotwo {
   color: #212121;
   font-weight: 500;
@@ -62,9 +71,21 @@
   margin-left: 50px;
   max-width: 58px;
 }
+.mail2{
+width: 231px;
+line-height: 21px;
+margin-left: 215px;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+color: #757575;
+}
+.tel2{
+
+}
 .buttonone {
   width: 121px;
-  height: 38px;
+  line-height: 38px;
   margin-left: 510px;
   margin-top: 174px;
   background: #2196f3;
