@@ -1,0 +1,72 @@
+main {
+  font-family: 'Roboto Mono', monospace;
+}
+.WebStudio {
+  font-family: 'Raleway', sans-serif;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 31px;
+  margin-left: 215px;
+  margin-right: 93px;
+  margin-top: 24px;
+  color: black;
+}
+.wstudio {
+  color: #2196f3;
+}
+a {
+  text-decoration: none;
+}
+button {
+  color: black;
+  background: #f5f4fa;
+  border: 1px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  margin-left: 8px;
+  margin-top: 180px;
+}
+
+button:hover {
+  color: white;
+  background: #2196f3;
+}
+.butonmargin.ferst {
+  margin-left: 510px;
+}
+.butonmargin.all {
+  margin-left: 8px;
+}
+.eamil {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: ;
+}
+
+.tel {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: ;
+}
+
+.agencja {
+  color: #212121;
+}
+.agencja.c {
+  color: #2196f3;
+  margin-left: 8px;
+}
+.agencja.a {
+  margin-left: 93px;
+}
+.agencja.b {
+  margin: 8px;
+}
+.agencja {
+  margin-top: 32px;
+}
