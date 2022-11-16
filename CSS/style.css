@@ -26,18 +26,18 @@ body {
   color: #2196f3;
 }
 .viceversa :focus {
-  background-color: #9ccaf0;
+  background-color: #2196f3;
   outline: none;
 }
 .tel:hover {
   color: #2196f3;
 }
 .tel:focus {
-  background-color: #9ccaf0;
+  background-color: #2196f3;
   outline: none;
 }
 .email:focus {
-  background-color: #9ccaf0;
+  background-color: #2196f3;
   outline: none;
 }
 .email:hover {
@@ -63,13 +63,14 @@ body {
   line-height: 30px;
   letter-spacing: 0.06em;
   border: 4px;
+  cursor: pointer;
 }
 .botoonindex:hover {
   color: #ffffff;
   background: #2196f3;
 }
 .botoonindex:focus {
-  background-color: #9ccaf0;
+  background-color: #2196f3;
   outline: none;
 }
 .lorem {
@@ -110,13 +111,14 @@ body {
   border: 4px;
   background: #f5f4fa;
   color: #212121;
+  cursor: pointer;
 }
 .fivebutton:hover {
   color: #ffffff;
   background: #2196f3;
 }
 .fivebutton:focus {
-  background-color: #9ccaf0;
+  background-color: #2196f3;
   outline: none;
 }
 .graf {
