@@ -1,72 +1,97 @@
-main {
-  font-family: 'Roboto Mono', monospace;
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #212121;
 }
 .WebStudio {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway';
+  color: #212121;
   text-decoration: none;
   font-weight: 700;
-  font-size: 26px;
   line-height: 31px;
-  margin-left: 215px;
-  margin-right: 93px;
-  margin-top: 24px;
-  color: black;
+  font-size: 26px;
+  letter-spacing: 0.03em;
 }
 .wstudio {
   color: #2196f3;
 }
-a {
+.linkrest {
+  color: #212121;
   text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
 }
-button {
-  color: black;
-  background: #f5f4fa;
-  border: 1px;
+.viceversa :hover {
+  color: #2196f3;
+}
+.email,
+.tel {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.02em;
+  color: #757575;
+}
+
+.top {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  color: #212121;
+}
+.botoonindex {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  letter-spacing: 0.06em;
+  border: 4px;
+}
+.lorem {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+}
+.loremtxt {
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+.resth {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.john {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+}
+.johntxt {
+  font-size: 16px;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+}
+.fivebutton {
   font-weight: 500;
   font-size: 16px;
   line-height: 26px;
-  margin-left: 8px;
-  margin-top: 180px;
+  letter-spacing: 0.03em;
+  border: 4px;
 }
-
-button:hover {
-  color: white;
-  background: #2196f3;
+.graf {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+  letter-spacing: 0.06em;
 }
-.butonmargin.ferst {
-  margin-left: 510px;
-}
-.butonmargin.all {
-  margin-left: 8px;
-}
-.eamil {
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  text-decoration-line: underline;
-  color: ;
-}
-
-.tel {
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
-  color: ;
-}
-
-.agencja {
-  color: #212121;
-}
-.agencja.c {
-  color: #2196f3;
-  margin-left: 8px;
-}
-.agencja.a {
-  margin-left: 93px;
-}
-.agencja.b {
-  margin: 8px;
-}
-.agencja {
-  margin-top: 32px;
+.graftxt {
+  font-size: 16px;
+  line-height: 30px;
+  color: #757575;
 }
