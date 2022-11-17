@@ -100,14 +100,14 @@ body {
   color: #212121;
 }
 
-.articleTitle {
+.name {
   font-weight: 500;
   font-size: 1.11rem;
   line-height: 1.18;
   letter-spacing: 0.03rem;
 }
 
-.articleTitleTxt {
+.nameTxt {
   font-size: 1rem;
   line-height: 1.18;
   letter-spacing: 0.03rem;
