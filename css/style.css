@@ -2,134 +2,147 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #212121;
 }
+
 .WebStudio {
   font-family: 'Raleway';
   color: #212121;
   text-decoration: none;
   font-weight: 700;
-  line-height: 31px;
-  font-size: 26px;
-  letter-spacing: 0.03em;
+  line-height: 1.19;
+  font-size: 1.62rem;
+  letter-spacing: 0.03rem;
 }
+
 .wstudio {
   color: #2196f3;
 }
-.linkrest {
+
+.linkRest {
   color: #212121;
   text-decoration: none;
   font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
+  font-size: 0.87rem;
+  line-height: 1.14;
+  letter-spacing: 0.02rem;
 }
-.viceversa :hover {
+
+.viceVersa :hover {
   color: #2196f3;
 }
-.viceversa :focus {
+
+.viceVersa :focus {
   background-color: #2196f3;
   outline: none;
 }
-.tel:hover {
+
+.email-tel:hover {
   color: #2196f3;
 }
-.tel:focus {
+
+.email-tel:focus {
   background-color: #2196f3;
   outline: none;
 }
-.email:focus {
-  background-color: #2196f3;
-  outline: none;
-}
-.email:hover {
-  color: #2196f3;
-}
-.email,
-.tel {
+
+.email-tel {
   font-weight: 500;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.02em;
+  font-size: 0.87rem;
+  line-height: 1.14;
+  letter-spacing: 0.02rem;
   color: #757575;
 }
+
 .top {
   font-weight: 900;
-  font-size: 44px;
-  line-height: 60px;
+  font-size: 2.75rem;
+  line-height: 3.1;
   color: #212121;
 }
-.botoonindex {
+
+.botoonIndex {
   font-weight: 700;
-  font-size: 16px;
-  line-height: 30px;
-  letter-spacing: 0.06em;
+  font-size: 1rem;
+  line-height: 1.87;
+  letter-spacing: 0.06rem;
   border: 4px;
   cursor: pointer;
 }
-.botoonindex:hover {
+
+.botoonIndex:hover {
   color: #ffffff;
   background: #2196f3;
 }
-.botoonindex:focus {
+
+.botoonIndex:focus {
   background-color: #2196f3;
   outline: none;
 }
-.lorem {
+
+.articleTitle {
   font-weight: 700;
-  font-size: 14px;
-  line-height: 16px;
-  letter-spacing: 0.03em;
+  font-size: 0.87rem;
+  line-height: 1.14;
+  letter-spacing: 0.03rem;
 }
-.loremtxt {
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: 0.03em;
+
+.articleTitleTxt {
+  font-size: 0.87rem;
+  line-height: 1.71;
+  letter-spacing: 0.03rem;
   color: #757575;
 }
-.resthhtwo {
+
+.resthHtwo {
   font-weight: 700;
-  font-size: 36px;
-  line-height: 42px;
-  letter-spacing: 0.03em;
+  font-size: 2.56rem;
+  line-height: 1.16;
+  letter-spacing: 0.03rem;
   color: #212121;
 }
-.john {
+
+.articleTitle {
   font-weight: 500;
-  font-size: 16px;
-  line-height: 19px;
-  letter-spacing: 0.03em;
+  font-size: 1.11rem;
+  line-height: 1.18;
+  letter-spacing: 0.03rem;
 }
-.johntxt {
-  font-size: 16px;
-  line-height: 19px;
-  letter-spacing: 0.03em;
+
+.articleTitleTxt {
+  font-size: 1rem;
+  line-height: 1.18;
+  letter-spacing: 0.03rem;
 }
-.fivebutton {
+
+.fiveButton {
   font-weight: 500;
-  font-size: 16px;
-  line-height: 26px;
-  letter-spacing: 0.03em;
+  font-size: 1rem;
+  line-height: 1.62;
+  letter-spacing: 0.03rem;
   border: 4px;
   background: #f5f4fa;
   color: #212121;
   cursor: pointer;
 }
-.fivebutton:hover {
+
+.fiveButton:hover {
   color: #ffffff;
   background: #2196f3;
 }
-.fivebutton:focus {
+
+.fiveButton:focus {
   background-color: #2196f3;
   outline: none;
 }
+
 .graf {
   font-weight: 700;
-  font-size: 18px;
-  line-height: 36px;
-  letter-spacing: 0.06em;
+  font-size: 1.12rem;
+  line-height: 2.11;
+  letter-spacing: 0.06rem;
 }
 
-.graftxt {
-  font-size: 16px;
-  line-height: 30px;
+.grafTxt {
+  font-size: 1rem;
+  line-height: 1.87;
   color: #757575;
 }
